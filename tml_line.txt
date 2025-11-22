@@ -1,0 +1,5 @@
+cd "/Users/kimisun/Documents/Kimi's PVT/WOMH/werewolf-game"
+npm run dev
+cd "/Users/kimisun/Documents/Kimi's PVT/WOMH/werewolf-game"
+node server.js
+http://192.168.1.8:3001
